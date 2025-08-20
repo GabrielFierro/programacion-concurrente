@@ -1,3 +1,5 @@
+package threads;
+
 public class Recurso {
     static void uso() {
         // Crea las instancias de tipo Thread
