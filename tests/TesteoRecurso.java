@@ -1,4 +1,7 @@
-package threads;
+package tests;
+
+import threads.Cliente;
+import threads.Recurso;
 
 public class TesteoRecurso {
     public static void main(String[] args) {
